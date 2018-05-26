@@ -1,0 +1,81 @@
+ PMA_token |s:16:"['8v'|dGf5TU_$SQ";browser_access_time|a:1:{s:7:"default";i:1526131240;}relation|a:1:{i:1;a:22:{s:11:"PMA_VERSION";s:5:"4.8.0";s:7:"relwork";b:0;s:11:"displaywork";b:0;s:12:"bookmarkwork";b:0;s:7:"pdfwork";b:0;s:8:"commwork";b:0;s:8:"mimework";b:0;s:11:"historywork";b:0;s:10:"recentwork";b:0;s:12:"favoritework";b:0;s:11:"uiprefswork";b:0;s:12:"trackingwork";b:0;s:14:"userconfigwork";b:0;s:9:"menuswork";b:0;s:7:"navwork";b:0;s:17:"savedsearcheswork";b:0;s:18:"centralcolumnswork";b:0;s:20:"designersettingswork";b:0;s:19:"exporttemplateswork";b:0;s:8:"allworks";b:0;s:4:"user";N;s:2:"db";N;}}cache|a:3:{s:18:"server_1_homestead";a:18:{s:14:"mysql_cur_user";s:11:"homestead@%";s:17:"is_create_db_priv";b:0;s:14:"is_reload_priv";b:0;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:9:"homestead";}s:11:"dbs_to_test";a:5:{i:0;s:18:"information_schema";i:1;s:18:"performance_schema";i:2;s:5:"mysql";i:3;s:3:"sys";i:4;s:9:"homestead";}s:9:"proc_priv";b:0;s:10:"table_priv";b:0;s:8:"col_priv";b:0;s:7:"db_priv";b:0;s:12:"is_grantuser";b:0;s:13:"is_createuser";b:0;s:12:"is_superuser";b:0;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:9:"資料庫";s:3:"sql";s:3:"SQL";s:6:"status";s:6:"狀態";s:6:"rights";s:9:"使用者";s:6:"export";s:6:"匯出";s:6:"import";s:6:"匯入";s:8:"settings";s:6:"設定";s:6:"binlog";s:15:"二進位記錄";s:11:"replication";s:6:"備援";s:4:"vars";s:6:"變數";s:7:"charset";s:12:"字元編碼";s:7:"plugins";s:12:"附加元件";s:6:"engine";s:6:"引擎";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:6:"結構";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"搜尋";s:17:"multi_table_query";s:6:"查詢";s:6:"export";s:6:"匯出";s:6:"import";s:6:"匯入";s:9:"operation";s:6:"操作";s:10:"privileges";s:6:"權限";s:8:"routines";s:12:"預存程序";s:6:"events";s:6:"事件";s:8:"triggers";s:9:"觸發器";s:8:"tracking";s:6:"追蹤";s:8:"designer";s:9:"設計器";s:15:"central_columns";s:12:"中央欄位";}s:19:"profiling_supported";b:1;s:17:"menu-levels-table";a:11:{s:6:"browse";s:6:"瀏覽";s:9:"structure";s:6:"結構";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"搜尋";s:6:"insert";s:6:"新增";s:6:"export";s:6:"匯出";s:6:"import";s:6:"匯入";s:10:"privileges";s:6:"權限";s:9:"operation";s:6:"操作";s:8:"tracking";s:6:"追蹤";s:8:"triggers";s:9:"觸發器";}}s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1526131213;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1523116822;s:9:"userprefs";a:2:{s:4:"lang";s:5:"zh_TW";s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}s:13:"version_check";a:2:{s:8:"response";s:427:"{
+    "date": "2018-04-19", 
+    "version": "4.8.0.1", 
+    "releases": [
+        {
+            "date": "2018-04-19", 
+            "php_versions": ">=5.5,<7.3", 
+            "version": "4.8.0.1", 
+            "mysql_versions": ">=5.5"
+        }, 
+        {
+            "date": "2017-03-29", 
+            "php_versions": ">=5.2,<5.3", 
+            "version": "4.0.10.20", 
+            "mysql_versions": ">=5.0"
+        }
+    ]
+}";s:9:"timestamp";i:1526131197;}}encryption_key|s:32:"K�����h�̕�r:�����n�d����h��";userconfig|a:2:{s:2:"db";a:2:{s:4:"lang";s:5:"zh_TW";s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1526131213;}two_factor_check|b:1;is_git_revision|b:0;tmpval|a:15:{s:15:"favorite_tables";a:1:{i:1;a:0:{}}s:13:"recent_tables";a:1:{i:1;a:0:{}}s:5:"query";a:10:{s:32:"2fae45d94f73f1e560c9c465228542e9";a:8:{s:3:"sql";s:26:"/*!40101 SET SQL_MODE=''*/";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"1d0b4b6671d70c22359ab2fd7672a889";a:8:{s:3:"sql";s:67:"/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"f4b48f7cc60d312a5cb4e40e5f7d1c93";a:8:{s:3:"sql";s:82:"/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"be90121fe7e8698a7ee484747609399e";a:8:{s:3:"sql";s:74:"/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"a15bc54c5f8071250c7f8c0cbe63bd03";a:8:{s:3:"sql";s:55:"/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"49498b742e4fee22d18912100e2fa987";a:8:{s:3:"sql";s:92:"CREATE DATABASE /*!32312 IF NOT EXISTS*/`homestead` /*!40100 DEFAULT CHARACTER SET latin1 */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"e6b64c2252478b37a224b2ba7bd9778a";a:8:{s:3:"sql";s:15:"USE `homestead`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"bb09060bc02a87eacce67acae9e79c5a";a:8:{s:3:"sql";s:78:"/*Table structure for table `customers` */
+
+DROP TABLE IF EXISTS `customers`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"25875f8f881c8c4f400a64ffa503e88b";a:8:{s:3:"sql";s:798:"CREATE TABLE `customers` (
+  `customerNumber` int(11) NOT NULL,
+  `customerName` varchar(50) NOT NULL,
+  `contactLastName` varchar(50) NOT NULL,
+  `contactFirstName` varchar(50) NOT NULL,
+  `phone` varchar(50) NOT NULL,
+  `addressLine1` varchar(50) NOT NULL,
+  `addressLine2` varchar(50) DEFAULT NULL,
+  `city` varchar(50) NOT NULL,
+  `state` varchar(50) DEFAULT NULL,
+  `postalCode` varchar(15) DEFAULT NULL,
+  `country` varchar(50) NOT NULL,
+  `salesRepEmployeeNumber` int(11) DEFAULT NULL,
+  `creditLimit` decimal(10,2) DEFAULT NULL,
+  PRIMARY KEY (`customerNumber`),
+  KEY `salesRepEmployeeNumber` (`salesRepEmployeeNumber`),
+  CONSTRAINT `customers_ibfk_1` FOREIGN KEY (`salesRepEmployeeNumber`) REFERENCES `employees` (`employeeNumber`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"d7b804536cdc38428a77e221c1fa4c6b";a:8:{s:3:"sql";s:32:"SELECT * FROM `APPLICABLE_ROLES`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";s:1:"0";s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:18:"information_schema";s:13:"table_uiprefs";a:1:{i:1;a:1:{s:18:"information_schema";a:1:{s:16:"APPLICABLE_ROLES";a:0:{}}}}}ConfigFile1|a:2:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}__upload_status|a:1:{s:7:"handler";s:47:"PhpMyAdmin\Plugins\Import\Upload\UploadNoplugin";}Import_message|a:2:{s:7:"message";s:1414:"<div class="error"><h1>錯誤</h1><p><strong>SQL 查詢：</strong>
+    </p>
+<p>
+<code class="sql"><pre>
+CREATE TABLE `customers` (
+  `customerNumber` int(11) NOT NULL,
+  `customerName` varchar(50) NOT NULL,
+  `contactLastName` varchar(50) NOT NULL,
+  `contactFirstName` varchar(50) NOT NULL,
+  `phone` varchar(50) NOT NULL,
+  `addressLine1` varchar(50) NOT NULL,
+  `addressLine2` varchar(50) DEFAULT NULL,
+  `city` varchar(50) NOT NULL,
+  `state` varchar(50) DEFAULT NULL,
+  `postalCode` varchar(15) DEFAULT NULL,
+  `country` varchar(50) NOT NULL,
+  `salesRepEmployeeNumber` int(11) DEFAULT NULL,
+  `creditLimit` decimal(10,2) DEFAULT NULL,
+  PRIMARY KEY (`customerNumber`),
+  KEY `salesRepEmployeeNumber` (`salesRepEmployeeNumber`),
+  CONSTRAINT `customers_ibfk_1` FOREIGN KEY (`salesRepEmployeeNumber`) REFERENCES `employees` (`employeeNumber`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+</pre></code>
+</p>
+<p>
+    <strong>MySQL 回應: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Ferror-messages-server.html" target="mysql_doc"><img src="themes/dot.gif" title="說明文件" alt="說明文件" class="icon ic_b_help" /></a>
+</p>
+<code>#1005 - Can't create table `homestead`.`customers` (errno: 150 &quot;Foreign key constraint is incorrectly formed&quot;) (<a href="server_engines.php?engine=InnoDB&amp;page=Status">詳細資訊…</a>)</code><br/></div>";s:11:"go_back_url";s:17:"server_import.php";}is_multi_query|b:0;sql_history|a:2:{i:0;a:3:{s:2:"db";s:0:"";s:5:"table";s:0:"";s:8:"sqlquery";s:798:"CREATE TABLE `customers` (
+  `customerNumber` int(11) NOT NULL,
+  `customerName` varchar(50) NOT NULL,
+  `contactLastName` varchar(50) NOT NULL,
+  `contactFirstName` varchar(50) NOT NULL,
+  `phone` varchar(50) NOT NULL,
+  `addressLine1` varchar(50) NOT NULL,
+  `addressLine2` varchar(50) DEFAULT NULL,
+  `city` varchar(50) NOT NULL,
+  `state` varchar(50) DEFAULT NULL,
+  `postalCode` varchar(15) DEFAULT NULL,
+  `country` varchar(50) NOT NULL,
+  `salesRepEmployeeNumber` int(11) DEFAULT NULL,
+  `creditLimit` decimal(10,2) DEFAULT NULL,
+  PRIMARY KEY (`customerNumber`),
+  KEY `salesRepEmployeeNumber` (`salesRepEmployeeNumber`),
+  CONSTRAINT `customers_ibfk_1` FOREIGN KEY (`salesRepEmployeeNumber`) REFERENCES `employees` (`employeeNumber`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1";}i:1;a:3:{s:2:"db";s:18:"information_schema";s:5:"table";s:16:"APPLICABLE_ROLES";s:8:"sqlquery";s:32:"SELECT * FROM `APPLICABLE_ROLES`";}}errors|a:0:{}

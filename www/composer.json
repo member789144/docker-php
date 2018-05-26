@@ -1,0 +1,11 @@
+{
+    "name": "rc1021/php-base-server",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rc.1021",
+            "email": "mufasa.hsu@gmail.com"
+        }
+    ],
+    "require": {}
+}
