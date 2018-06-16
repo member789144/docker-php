@@ -15,7 +15,8 @@ ENV COMPOSER_DEPS \
 ENV PHP_EXTS \
         bcmath \
         mbstring \
-        pdo_mysql
+        pdo_mysql \
+        mysqli
 
 RUN set -xe && \
     NPROC=$(grep -c ^processor /proc/cpuinfo 2>/dev/null || 1) && \
